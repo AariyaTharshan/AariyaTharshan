@@ -8,7 +8,7 @@ I'm a budding software developer with a knack for creating web applications.
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,react,vite,mongodb,nodejs,express,py,c,vercel,netlify,electron,tailwind,bootstrap,git,github,html,css,js,vscode,kali&perline=8)
+[![My Skills](https://skillicons.dev/icons?i=java,react,vite,mongodb,nodejs,express,py,c,vercel,netlify,electron,tailwind,bootstrap,git,github,html,css,js,vscode,kali&perline=4)
 
 
 
