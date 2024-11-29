@@ -10,6 +10,9 @@ I'm a budding software developer with a knack for creating web applications.
 
 [![My Skills](https://skillicons.dev/icons?i=java,react,vite,mongodb,nodejs,express,py,c,vercel,netlify,electron,tailwind,bootstrap,git,github,html,css,js,vscode,kali&perline=8)
 
+
+
+
 ## GitHub Stats
 🔭 **Public Repositories:** 13  |  👥 **Followers:** 5  |  ➕ **Following:** 4  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AariyaTharshan&show_icons=true&hide_title=true&count_private=true&theme=radical)
